@@ -5,21 +5,6 @@
 - Frontend Web Developer
 - Backend Web Developer
 - Web Designer
-
-<table>
-   <td width="50%" valign="top">
-    <h3 align="center"> GitHub Status<h3>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=wahyall&show_icons=true&theme=nightowl" />
-    </p>
-   </td>
-   <td width="50%" valign="top">
-    <h3 align="center"> Most used languages</h3>
-     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyall&theme=nightowl"/>
-     </p>
-  </td>
-</table>
      
 ## My Skills and Knowledge
 
@@ -35,5 +20,21 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+
+<table>
+   <td width="50%" valign="top">
+    <h3 align="center"> GitHub Status<h3>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=wahyall&show_icons=true&theme=nightowl" />
+    </p>
+   </td>
+   <td width="50%" valign="top">
+    <h3 align="center"> Most used languages</h3>
+     <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyall&theme=nightowl"/>
+     </p>
+  </td>
+</table>
