@@ -2,7 +2,7 @@
 
 ## My name is Wahyu Agung Laksono, you can call me Wahyu.
 
-- Frontend Web Developer
+- ⚡Frontend Web Developer⚡
 - Backend Web Developer
 - Web Designer
 
