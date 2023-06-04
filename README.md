@@ -44,7 +44,7 @@
         
 <table>
      <td width="50%" valign="top">
-          <a href="https://app.daily.dev/wahyall"><img src="https://api.daily.dev/devcards/c62f04dedbdc42b196a10e828331a319.png?r=bdy" width="400" alt="Wahyu All's Dev Card"/></a>
+          <a href="https://app.daily.dev/wahyall"><img src="https://api.daily.dev/devcards/c62f04dedbdc42b196a10e828331a319.png?r=0ca" width="400" alt="Wahyu All's Dev Card"/></a>
      </td>
      <td width="50%" valign="top"></td>
 </table>
